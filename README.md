@@ -1,1 +1,1 @@
-# hello-world i am writeing something about myself
+# hello-world i am writing something about myself
